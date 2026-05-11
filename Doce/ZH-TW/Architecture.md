@@ -1,6 +1,6 @@
 ## [返回](/Doce/ZH-TW/Doce.md)
 
-# 🏗️ Novalano 系統架構設計
+# 🏗️ 系統架構設計
 
 ---
 
