@@ -22,7 +22,7 @@
 ## 📁 Doce結構
  
 ```
-docs/
+Doce/
 ├── Doce.md                      # 本文件：總覽和快速導航
 ├── ARCHITECTURE.md              # 系統架構總覽
 ├── BACKEND.md                   # 後端完整設計
@@ -130,7 +130,7 @@ chore: 更新依賴版本
  
 ```bash
 # 1. 克隆倉庫
-git clone https://github.com/Novalano/Novacloud.git
+git clone https://github.com/SapoZibi/Novalano.git
 cd Novalano
  
 # 2. 啟動開發依賴（PostgreSQL）
